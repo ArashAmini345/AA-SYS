@@ -1,0 +1,29 @@
+*{
+    direction: rtl;
+    background-color: cornflowerblue;
+}
+.Update {
+	box-shadow: 9px 12px 22px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:30px;
+	border:7px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:16px;
+	font-weight:bold;
+	font-style:italic;
+	padding:20px 72px;
+	text-decoration:none;
+	text-shadow:22px 1px 9px #283966;
+}
+.Update:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.Update:active {
+	position:relative;
+	top:1px;
+}
